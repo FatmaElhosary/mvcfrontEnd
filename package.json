@@ -1,0 +1,22 @@
+{
+  "name": "restaurant-project",
+  "version": "1.0.0",
+  "description": "search in meals and get result",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"live-server"
+  },
+  "keywords": [
+    "front",
+    "end"
+  ],
+  "author": "Fatma",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
