@@ -1,0 +1,36 @@
+#search {
+  background: #F8F8F8;
+}
+
+#search input {
+  -webkit-box-shadow: 0 5px 13px 3px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 5px 13px 3px rgba(0, 0, 0, 0.1);
+}
+
+#search button {
+  background: #ef4836;
+}
+
+#search a {
+  color: black;
+  font-weight: 900;
+}
+
+#search a:hover {
+  text-decoration: none;
+  color: #ef4836;
+}
+
+#search .media img {
+  width: 70px;
+  height: 70px;
+}
+
+#recepedetails i {
+  color: #ef4836;
+}
+
+body {
+  font-family: "sego ui light";
+}
+/*# sourceMappingURL=index_style.css.map */

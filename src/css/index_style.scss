@@ -1,0 +1,29 @@
+@import "./variables";
+@import './mixin';
+#search {
+  background: $bgGray;
+  input {
+    box-shadow: 0 5px 13px 3px rgba(0,0,0,0.1);
+  }
+  button {
+    background: $bgRed;
+  }
+  a {
+    color: black;
+    font-weight: 900;
+    &:hover{text-decoration: none; color: $bgRed;}
+  }
+  .media {
+    img {
+      width: 70px;
+      height: 70px;
+    }
+  }
+}
+#recepedetails{
+  i{color:$bgRed}
+
+}
+body {
+  font-family: $mainFont;
+}
